@@ -3,3 +3,19 @@
 ## Lo primero que hará el usuario aprendegit-user1 será crear una rama que apuntará al último commit que ha hecho y que contiene las modificaciones a la página de inicio. El procedimiento es el de siempre:
 
 ![Voila_Capture2](https://user-images.githubusercontent.com/72433702/153570946-ad60221b-776c-4d78-a528-6d8f18472ea8.png)
+
+
+
+
+
+ ##   Se selecciona a la izquierda la rama master y se hace clic sobre el último commit de la rama
+  ##  Se hace click sobre el icono «Branch»
+   ## Se introduce el nombre de la rama, en este maso mycommits
+   ## Se hace clic sobre «Create Branch»
+
+## Si se usa la línea de comandos, la secuencia sería:
+
+$ git checkout master
+Switched to branch 'master'
+$ git checkout -b mycommits
+Switched to a new branch 'mycommits'
