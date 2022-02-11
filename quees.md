@@ -19,3 +19,8 @@ $ git checkout master
 Switched to branch 'master'
 $ git checkout -b mycommits
 Switched to a new branch 'mycommits'
+
+
+## Una vez creada la rama, el usuario aprendegit-user1 hace push de la rama «mycommits» a su fork:
+
+![Voila_Capture4](https://user-images.githubusercontent.com/72433702/153573477-d2c4bf99-812e-4089-b0f8-61f254d6147d.png)
