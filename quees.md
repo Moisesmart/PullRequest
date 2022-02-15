@@ -67,3 +67,11 @@ Switched to a new branch 'mycommits'
    ## Ver un diff que los cambios que se incluyen en los commits (pestaña Files Changed)
 
 ## Es una buena práctica poner un título y descripción que reflejen el motivo del commit. Estos pull requests los ven todos los colaboradores del proyecto (si el proyecto es público lo ve todo el mundo) Así que aunque aalbagarcia y aprendegit-user1 hayan hablado por teléfono acerca de este pull request, el resto del mundo seguramente no ha escuchado la conversación. Pensando en el resto del equipo, aprendegit-user1 incluye un mensaje descriptivo de qué contiene el pull request. Cuando termina, hace clic sobre el botón «Send Pull Request». Esta es la pantalla a la que aprendegit-user1 llega después de enviarlo:
+
+![Voila_Capture9](https://user-images.githubusercontent.com/72433702/154038556-09b97db3-fcfe-4206-a44b-e62f995ccfbd.png)
+
+## La captura es bastante sencilla de entender. Vemos el título y descripción introducidos por aprendegit-user1, los commits y una interfaz para intercambiar comentarios con el equipo.
+
+## Aunque en pequeño, se nos indica qué es lo que tendríamos que hacer para añadir commits a este pull request: enviar más commits a la rama «mycommits» del fork de aprendegit-user1.
+
+## ¿Porqué podemos necesitar añadir más commits? Imagínate que el equipo revisa el pull request y se determina que todavía queda trabajo pendiente de hacer. ¿Cómo se procede? aprendegit-user1 continúa el trabajo en la rama rama «mycommits» de su fork y cuando termina lo sube a su repositorio remoto. El pull request se actualiza y todo el equipo puede ver el nuevo código. Esto lo veremos en detalle en otro artículo, de momento, seguimos con el proceso.
