@@ -46,3 +46,5 @@ Switched to a new branch 'mycommits'
 
 ## Solicitando el pull request
 
+ ### el usuario aprendegit-user1 accede a su cuenta de github y abre en su navegador la página de su fork https://github.com/aprendegit-user1/fork.
+
