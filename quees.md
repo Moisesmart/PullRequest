@@ -48,3 +48,8 @@ Switched to a new branch 'mycommits'
 
  ### el usuario aprendegit-user1 accede a su cuenta de github y abre en su navegador la página de su fork https://github.com/aprendegit-user1/fork.
 
+
+## Una vez hemos accedido, cambiamos a la rama mycommits como se indica en la siguiente captura:Acceder a github y cambiar a la rama mycommits
+![Voila_Capture6](https://user-images.githubusercontent.com/72433702/154038189-64b33bad-5a03-4fe0-a8cf-b6859649d077.png)
+
+
