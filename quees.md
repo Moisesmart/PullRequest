@@ -52,4 +52,18 @@ Switched to a new branch 'mycommits'
 ## Una vez hemos accedido, cambiamos a la rama mycommits como se indica en la siguiente captura:Acceder a github y cambiar a la rama mycommits
 ![Voila_Capture6](https://user-images.githubusercontent.com/72433702/154038189-64b33bad-5a03-4fe0-a8cf-b6859649d077.png)
 
+## Una vez se ha cambiado a la rama mycommits, aprendegit-user1 hace clic sobre el botón «Pull Request»El botón pull request
+![Voila_Capture7](https://user-images.githubusercontent.com/72433702/154038314-93399faf-3ba3-4f94-bc33-7842a9799110.png)
 
+## Esta es la pantalla que se presenta a aprendegit-user1:Pantalla para enviar el pull request
+
+
+![Voila_Capture8](https://user-images.githubusercontent.com/72433702/154038358-3c2f0959-3a98-4650-b66b-91a3ee52a243.png)
+
+## En la parte superior, aprendegit-user1 selecciona la rama que contiene los commits que aalbagarcia (el destinatario del pull request) debe incorporar en su repositorio. En la parte de abajo se ven tres pestañas en las que se puede:
+
+   ## Poner un título y descripción al pull request
+   ## Ver los commits que aalbagarcia incorporará al repositorio si acepta el pull request (pestaña Commits)
+   ## Ver un diff que los cambios que se incluyen en los commits (pestaña Files Changed)
+
+## Es una buena práctica poner un título y descripción que reflejen el motivo del commit. Estos pull requests los ven todos los colaboradores del proyecto (si el proyecto es público lo ve todo el mundo) Así que aunque aalbagarcia y aprendegit-user1 hayan hablado por teléfono acerca de este pull request, el resto del mundo seguramente no ha escuchado la conversación. Pensando en el resto del equipo, aprendegit-user1 incluye un mensaje descriptivo de qué contiene el pull request. Cuando termina, hace clic sobre el botón «Send Pull Request». Esta es la pantalla a la que aprendegit-user1 llega después de enviarlo:
