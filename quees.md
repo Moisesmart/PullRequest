@@ -32,3 +32,9 @@ Switched to a new branch 'mycommits'
 ## Se hace clic sobre el icono Push de la bara de herramientas
 ## En el desplegable, se selecciona en la columna «Push?» la rama mycommits y se marca en la columna de la derecha (Track) la rama local como tracking branch.
 ## Se hace clic sobre OK.
+
+## La secuencia de comandos sería 
+
+![pull](https://user-images.githubusercontent.com/72433702/154037776-7fc00c34-8d78-443a-b091-1925e3f83fb7.PNG)
+
+
