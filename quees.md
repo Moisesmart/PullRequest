@@ -75,3 +75,27 @@ Switched to a new branch 'mycommits'
 ## Aunque en pequeño, se nos indica qué es lo que tendríamos que hacer para añadir commits a este pull request: enviar más commits a la rama «mycommits» del fork de aprendegit-user1.
 
 ## ¿Porqué podemos necesitar añadir más commits? Imagínate que el equipo revisa el pull request y se determina que todavía queda trabajo pendiente de hacer. ¿Cómo se procede? aprendegit-user1 continúa el trabajo en la rama rama «mycommits» de su fork y cuando termina lo sube a su repositorio remoto. El pull request se actualiza y todo el equipo puede ver el nuevo código. Esto lo veremos en detalle en otro artículo, de momento, seguimos con el proceso.
+
+## Aceptando el pull request
+
+### Cuando aprendegit-user1 envía el pull request, Github envía al propietario un email avisándole de que tiene un pull request listo para revisar. En este caso, el usuario aalbagarcia recibe el email, accede a su cuenta de Github y va a su repositorio https://github.com/aprendegit/fork:
+
+![Voila_Capture10](https://user-images.githubusercontent.com/72433702/154038786-04500815-4e92-4cc2-a782-bee4b95b5d34.png)
+
+### En esta pantalla, seleccionamos la pestaña «Pull Requests» y accedemos a una interfaz que nos muestra todos los que tenemos. Dado que este es el primero, en este listado seleccionamos el único que hay:Listado de pull requests del repositorio
+![Voila_Capture11](https://user-images.githubusercontent.com/72433702/154038988-1f6b50de-14d8-414f-bccb-b4254eeb7a71.png)
+
+### Cuando aalbagarcia selecciona «Añadiendo logotipo», accede a una pantalla muy parecida a la que hemos visto con el usuario aprendegit-user1. En la siguiente captura indico cuáles son las diferencias:
+![Voila_Capture12](https://user-images.githubusercontent.com/72433702/154039050-3649ab90-1a11-42b8-bd3c-9ee52d163802.png)
+
+### Las diferencias son:
+
+   ### Existe un botón «Merge pull request» que el propietario aalbagarcia utilizará para incorporar los commits al repositorio
+   ### Existe un botón «Close» que el propietario utiliza para cerrar el pull request sin incorporar los cambios
+
+### Una vez revisado el código y confirmado que todo está bien, aalbagarcia hace clic sobre el botón «Merge Pull Request». En ese momento Github le pedirá que introduzca un comentario para el merge commit. Una vez introducido, aalbagarcia hace clic sobre el botón «Commit merge» y ya está, Github automáticamente cierra el pull request. También envía un email a los dos interesados (aalbagarcia y aprendegit-user1) avisándoles de que se han incorporado los cambios en el repositorio.
+
+## Si volvéis a la página de commits del repositorio en github (https://github.com/aprendegit/fork/commits/master) veréis que tras hacer el pull request, aparece un nuevo commit en el repositorio:
+![Voila_Capture15](https://user-images.githubusercontent.com/72433702/154039220-501ea236-98f2-4fe2-8281-68a7af6ef212.png)
+
+
