@@ -24,3 +24,11 @@ Switched to a new branch 'mycommits'
 ## Una vez creada la rama, el usuario aprendegit-user1 hace push de la rama «mycommits» a su fork:
 
 ![Voila_Capture4](https://user-images.githubusercontent.com/72433702/153573477-d2c4bf99-812e-4089-b0f8-61f254d6147d.png)
+
+
+
+## Se selecciona la rama mycommits a la izquierda asegurándonos de que esta queda como rama activa haciendo doble clic sobre ella
+## Se selecciona el último commit de la rama
+## Se hace clic sobre el icono Push de la bara de herramientas
+## En el desplegable, se selecciona en la columna «Push?» la rama mycommits y se marca en la columna de la derecha (Track) la rama local como tracking branch.
+## Se hace clic sobre OK.
