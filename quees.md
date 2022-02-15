@@ -38,3 +38,8 @@ Switched to a new branch 'mycommits'
 ![pull](https://user-images.githubusercontent.com/72433702/154037776-7fc00c34-8d78-443a-b091-1925e3f83fb7.PNG)
 
 
+## Al terminar, el estado del repositorio es el siguiente:
+
+
+![Voila_Capture5](https://user-images.githubusercontent.com/72433702/154037910-32926dcb-feec-4ca4-a501-d3694020bd65.png)
+
