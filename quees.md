@@ -43,3 +43,6 @@ Switched to a new branch 'mycommits'
 
 ![Voila_Capture5](https://user-images.githubusercontent.com/72433702/154037910-32926dcb-feec-4ca4-a501-d3694020bd65.png)
 
+
+## Solicitando el pull request
+
