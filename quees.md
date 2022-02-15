@@ -99,3 +99,10 @@ Switched to a new branch 'mycommits'
 ![Voila_Capture15](https://user-images.githubusercontent.com/72433702/154039220-501ea236-98f2-4fe2-8281-68a7af6ef212.png)
 
 
+## ¿Cómo quedan los repositorios de aalbagarcia y aprendegit-user1?
+
+### En este momento, el repositorio remoto de aalbagarcia ya contiene el merge commit que se ha creado a través del pull request. La pregunta es ¿el de aprendegit-user1 también? ¿verán estos nuevos commits los dos usuarios?
+
+### …la respuesta es que, efectivamente, no lo verán hasta que hagan un fetch en sus respetivos repositorios. Tras hacer los dos usuarios un fetch de todos sus repositorios remotos (recuerda que aprendegit-user1 tiene 2 remotos,  origin y upstream) así quedan sus respectivas copias de trabajo:
+![Voila_Capture18](https://user-images.githubusercontent.com/72433702/154039376-0fd7bae4-fc31-4f83-b44c-90cd31713fba.png)
+
