@@ -106,3 +106,13 @@ Switched to a new branch 'mycommits'
 ### …la respuesta es que, efectivamente, no lo verán hasta que hagan un fetch en sus respetivos repositorios. Tras hacer los dos usuarios un fetch de todos sus repositorios remotos (recuerda que aprendegit-user1 tiene 2 remotos,  origin y upstream) así quedan sus respectivas copias de trabajo:
 ![Voila_Capture18](https://user-images.githubusercontent.com/72433702/154039376-0fd7bae4-fc31-4f83-b44c-90cd31713fba.png)
 
+### Para terminar:
+
+   ### aalbagarcia tiene que hacer un merge de la rama origin/master a la rama master
+   ### aprendegit-user1 tiene que hacer un merge de la rama upstream/master a la rama master y después hacer un push de su rama master
+
+### Una vez hecho esto, los repositorios quedan de la siguiente manera:
+
+![eeeeee](https://user-images.githubusercontent.com/72433702/154039601-5a5503e0-b574-4dae-9d7c-7c031ded014d.PNG)
+
+
