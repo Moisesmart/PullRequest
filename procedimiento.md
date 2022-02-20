@@ -15,7 +15,7 @@
 
 ### Hacemos los cambios oportunos:
 
-###![imagen](https://user-images.githubusercontent.com/72433702/154840722-af18a45b-2cc6-4dc2-806a-f4c340de612e.png)
+### ![imagen](https://user-images.githubusercontent.com/72433702/154840722-af18a45b-2cc6-4dc2-806a-f4c340de612e.png)
 
 
 
